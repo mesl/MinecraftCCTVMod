@@ -1,0 +1,21 @@
+[
+{
+  "modid": "CCTVImproved",
+  "name": "CCTV Improved",
+  "description": "A mod adding CCTV functionality to Minecraft.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "NuclearJake"
+  ],
+  "credits": "Ideas from ParantheanKnight.",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
