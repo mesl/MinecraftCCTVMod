@@ -1,4 +1,4 @@
 CCTVImproved172
 ===============
 
-A CCTV mod for Minecraft 1.7.2 - hopefully including cool, unique features.
+A CCTV mod for Minecraft 1.7 - hopefully including cool, unique features.
